@@ -1,3 +1,4 @@
+package src;
 public interface Playable {
     void play();
     String getTitle();

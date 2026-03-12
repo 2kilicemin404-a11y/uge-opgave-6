@@ -1,3 +1,4 @@
+package src;
 public abstract class MediaItem{
     String title;
     int durationSeconds;

@@ -1,3 +1,7 @@
-void main(){
+package src;
 
+public class Main {
+    void main(){
+
+    }
 }

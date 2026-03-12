@@ -1,3 +1,4 @@
+package src;
 public class Song extends MediaItem implements Playable {
     String artist;
 
